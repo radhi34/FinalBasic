@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42406" started-at="2020-10-07T02:19:00Z" finished-at="2020-10-07T02:19:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42406" started-at="2020-10-07T02:19:00Z" finished-at="2020-10-07T02:19:42Z">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@63021689]" name="beforeMethod" is-config="true" duration-ms="11641" started-at="2020-10-06T22:19:00Z" finished-at="2020-10-06T22:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithWrongPasswordTest()[pri:1, instance:tests.LoginTest@63021689]" name="loginWithWrongPasswordTest" duration-ms="8864" started-at="2020-10-06T22:19:12Z" finished-at="2020-10-06T22:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongPasswordTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@63021689]" name="afterMethod" is-config="true" duration-ms="2950" started-at="2020-10-06T22:19:20Z" finished-at="2020-10-06T22:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@63021689]" name="beforeMethod" is-config="true" duration-ms="13977" started-at="2020-10-06T22:19:23Z" finished-at="2020-10-06T22:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithWrongEmailTest()[pri:2, instance:tests.LoginTest@63021689]" name="loginWithWrongEmailTest" duration-ms="3436" started-at="2020-10-06T22:19:37Z" finished-at="2020-10-06T22:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongEmailTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@63021689]" name="afterMethod" is-config="true" duration-ms="1490" started-at="2020-10-06T22:19:41Z" finished-at="2020-10-06T22:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
